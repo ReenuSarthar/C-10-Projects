@@ -1,0 +1,5 @@
+10. Which of the following is not an operator in C?
+a) ,
+b) sizeof()
+c) ~
+d) None of the mentioned

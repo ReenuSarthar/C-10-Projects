@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670391972 source:d:\reenu\software project\c project\hospital management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

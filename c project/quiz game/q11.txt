@@ -1,0 +1,5 @@
+11. scanf() is a predefined function in______header file.
+a) stdlib. h
+b) ctype. h
+c) stdio. h
+d) stdarg. h

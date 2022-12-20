@@ -1,0 +1,5 @@
+6. What is an example of iteration in C?
+a) for
+b) while
+c) do-while
+d) all of the mentioned

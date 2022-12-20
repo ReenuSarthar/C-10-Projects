@@ -1,0 +1,5 @@
+4. Which of the following cannot be a variable name in C?
+a) true
+b) volatile
+c) friend
+d) export

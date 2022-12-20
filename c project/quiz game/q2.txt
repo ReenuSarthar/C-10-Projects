@@ -1,0 +1,5 @@
+2. Which of the following is not a valid C variable name?
+a) int number;
+b) float rate;
+c) int $main;
+d) int variable_count;

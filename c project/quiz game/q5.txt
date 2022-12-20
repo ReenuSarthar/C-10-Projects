@@ -1,0 +1,5 @@
+5. What is the result of logical or relational expression in C?
+a) True or False
+b) None of the mentioned
+c) 0 if an expression is false and any positive number if an expression is true
+d) 0 or 1

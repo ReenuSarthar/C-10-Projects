@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670493603 source:d:\reenu\software project\c project\snake\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

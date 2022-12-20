@@ -1,0 +1,5 @@
+7. What is #include <stdio.h>?
+a) Preprocessor directive
+b) Inclusion directive
+c) File inclusion directive
+d) None of the mentioned

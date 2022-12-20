@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670482386 source:d:\reenu\software project\c project\wd\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+8. Which of the following are C preprocessors?
+a) #ifdef
+b) #define
+c) #endif
+d) all of the mentioned

@@ -1,0 +1,5 @@
+9. What is the sizeof(char) in a 32-bit C compiler?
+a) 1 bit
+b) 2 bits
+c) 2 Bytes
+d) 1 Byte

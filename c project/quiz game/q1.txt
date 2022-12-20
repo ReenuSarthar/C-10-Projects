@@ -1,0 +1,5 @@
+1. Who is the father of C language?
+a) Dennis Ritchie
+b) James Gosling
+c) Steve Jobs
+d) Rasmus Lerdorf
